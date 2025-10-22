@@ -18,4 +18,5 @@ Teslim Edilen Dosyalar:
 - IkiIslem.java ve IkiIslem.class
 - Faktoriyel.java ve Faktoriyel.class
 - README-2.md
-- Ekran görüntüleri
+- Ekran görüntüleri (programların çalıştığını gösteren)
+
