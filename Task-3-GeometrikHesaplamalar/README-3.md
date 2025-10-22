@@ -20,4 +20,3 @@ Teslim Edilen Dosyalar:
 - UcgenAlanHesap.java ve UcgenAlanHesap.class
 - README-3.md.
 - Ekran görüntüleri (programın çalıştığını gösteren)
-- 
