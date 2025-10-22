@@ -14,8 +14,8 @@ GÖREV 2: Matematiksel İşlemler
 5 x 4 x 3 x 2 x 1 = 120
 
 Teslim Edilen Dosyalar:
-- ToplamaSeri.java / .class
-- IkiIslem.java / .class
-- Faktoriyel.java / .class
+- ToplamaSeri.java ve ToplamaSeri.class
+- IkiIslem.java ve IkiIslem.class
+- Faktoriyel.java ve Faktoriyel.class
 - README-2.md
 - Ekran görüntüleri
