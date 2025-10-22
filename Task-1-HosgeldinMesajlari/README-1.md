@@ -3,7 +3,7 @@ Ad Soyad: Ceren Çam
 
 GÖREV 1: Hoş Geldin Mesajları
 
-.1 - Üç Mesaj:
+1.1 - Üç Mesaj:
 Bu program ekrana üç farklı mesaj yazdırır:
 "Java’ya Hoş Geldiniz" 
 "Bilgisayar Bilimine Hoş Geldiniz" 
