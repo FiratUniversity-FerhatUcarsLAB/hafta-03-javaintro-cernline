@@ -18,4 +18,4 @@ Teslim Edilen Dosyalar:
 - AsciiArtHarf.java ve AsciiArtHarf.class
 - HesapOzeti.java ve HesapOzeti.class
 - README-4.md
-- Ekran görüntüleri
+- Ekran görüntüleri (programın çalıştığını gösteren)
